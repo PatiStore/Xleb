@@ -1,3 +1,3 @@
-def Hello_day():
+def Hello_day1():
     print("добрый день")
-Hello_day()
+Hello_day1()
